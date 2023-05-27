@@ -3,6 +3,16 @@ This Android application allows users to extract text from images using Optical 
 
 The application utilizes Google authentication for user login, ensuring a secure and personalized experience for each user. After logging in, users can access the OCR functionality and perform text extraction on images.
 
+## ScreenShots
+
+![1](https://github.com/Alliyan732/Image-To-Code-OCR/assets/95461559/4f20a2c9-4167-4782-b9c8-40529afe9b72)
+![2](https://github.com/Alliyan732/Image-To-Code-OCR/assets/95461559/beaa0438-40c4-49aa-8424-1d5c2db51561)
+![3](https://github.com/Alliyan732/Image-To-Code-OCR/assets/95461559/e95c1c8a-0297-44d6-a502-31533f26a9fe)
+![4](https://github.com/Alliyan732/Image-To-Code-OCR/assets/95461559/58e817ba-affb-43c3-8ece-b5f305f6a984)
+![5](https://github.com/Alliyan732/Image-To-Code-OCR/assets/95461559/e38a34bc-af0c-4fcb-90e1-6c0db088ea9c)
+![6](https://github.com/Alliyan732/Image-To-Code-OCR/assets/95461559/dd3cae96-00e3-4336-97ef-79be994f4c8f)
+![7](https://github.com/Alliyan732/Image-To-Code-OCR/assets/95461559/392d9271-0f4e-4b46-a334-e56fc98cfb73)
+
 ## Features
 Google authentication for secure user login.
 Optical Character Recognition (OCR) technology to extract text from images.
