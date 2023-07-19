@@ -90,4 +90,7 @@ The open-source community for providing valuable resources and inspirations.
 ## Support
 If you encounter any issues or have any questions or suggestions, please feel free to open an issue. We appreciate your feedback and contributions to the project.
 
+- Email: alliyan732@gmail.com
+- LinkedIn: https://www.linkedin.com/in/alliyan-alvi/
+
 Happy OCR-ing!
